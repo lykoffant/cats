@@ -1,0 +1,14 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+
+  "editor.codeActionsOnSave": {
+    "source.fixAll.stylelint": true
+  },
+
+  "stylelint.validate": ["scss"],
+
+  "scss.validate": false,
+
+  "cSpell.language": "en"
+}
