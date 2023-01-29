@@ -27,7 +27,8 @@
     "cats",
     "pet-project",
     "single-page-app",
-    "angular"
+    "angular",
+    "angular-material"
   ],
   "author": "Anton Lykov",
   "bugs": {
